@@ -3,8 +3,7 @@ Estructura del proyecto JPA
 [![cap1.jpg](https://i.postimg.cc/PJ6XgtkW/cap1.jpg)](https://postimg.cc/JHkCJC00)
 
 Dentro de la carpeta model esta la clase "PRODUCTO
-
-[![cap2.jpg](https://i.postimg.cc/bw1xjMsG/cap2.jpg)](https://postimg.cc/xXTJv6GY)
+![cap2](https://github.com/user-attachments/assets/105e72b9-cf71-4922-ab60-8e2a8ec05788)
 
 Dentro de la carpeta repository esta la clase "ProductoRepository"
 
