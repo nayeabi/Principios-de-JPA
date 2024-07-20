@@ -10,16 +10,16 @@ Dentro de la carpeta repository esta la clase "ProductoRepository"
 [![cap3.jpg](https://i.postimg.cc/TPwHYfm7/cap3.jpg)](https://postimg.cc/XrRgsMsd)
 
 Dentro de la carpeta service esta la clase "ProductoService"
+![cap4](https://github.com/user-attachments/assets/4e3a1439-97ae-4853-aa7e-0e1bb10c63b8)
 
-[![cap4.jpg](https://i.postimg.cc/MK1Gd8nF/cap4.jpg)](https://postimg.cc/1f5P32cG)
 
 Dentro de la carpeta controller esta la clase "ProductoController"
 
 [![cap5.jpg](https://i.postimg.cc/HLw4gNvZ/cap5.jpg)](https://postimg.cc/jWjJ6MbP)
 
 Carga de datos
+![cap6](https://github.com/user-attachments/assets/5af8893d-cd91-4f35-9dc2-04c4f0731de4)
 
-[![cap6.jpg](https://i.postimg.cc/zD7bTgcc/cap6.jpg)](https://postimg.cc/V5Sk8d1q)
 
 conexión a la base de datos postgres
 
@@ -30,4 +30,5 @@ PRUEBAS
 [![cap8.jpg](https://i.postimg.cc/xjv750v7/cap8.jpg)](https://postimg.cc/jCjZdYkQ)
 [![cap9.jpg](https://i.postimg.cc/mgj1yFkD/cap9.jpg)](https://postimg.cc/fV3bwyxn)
 [![cap10.jpg](https://i.postimg.cc/gky3gHKy/cap10.jpg)](https://postimg.cc/ZCR9R320)
-[![cap11.jpg](https://i.postimg.cc/FR5h73Jz/cap11.jpg)](https://postimg.cc/1gHkdgB1)
+![cap11](https://github.com/user-attachments/assets/72d2c503-c48a-4a99-9cf6-1469e9d463ab)
+
